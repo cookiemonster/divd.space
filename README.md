@@ -1,2 +1,0 @@
-# divd.space
-DIVD.space
